@@ -243,7 +243,6 @@ def extract_fields_majority_vote(file_bytes: bytes, language_hint: str = "auto",
                 final[key] = ""
         else:
             final[key] = ""
-    print(json.dumps(final, ensure_ascii=False, indent=2))
     return final
 
 
