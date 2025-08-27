@@ -1,0 +1,4138 @@
+[
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "paragraph",
+    "title": "",
+    "subtitle": null,
+    "content": "Health workshops are an important part of the health promotion programs offered by health funds. They provide a wide range of educational and practical activities aimed at improving the health of members, imparting knowledge and skills for a healthy lifestyle, and assisting in coping with various health conditions.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "paragraph",
+    "title": "",
+    "subtitle": null,
+    "content": "The table below presents the main workshops offered by the health funds \"Maccabi,\" \"Meuhedet,\" and \"Clalit,\" along with the benefits provided to members under different insurance plans. The workshops include:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "list",
+    "title": "",
+    "subtitle": null,
+    "content": "Smoking Cessation: Workshops for quitting smoking and support during the process \n Proper Nutrition: Guidance for healthy eating and balanced dietary habits \n Physical Activity: Workshops to encourage and integrate physical activity into daily life \n Stress Management: Techniques for coping with stress and anxiety \n Diabetes: Guidance for managing the disease and maintaining a healthy lifestyle for diabetics \n Pregnancy and Childbirth: Preparation for childbirth and baby care",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\nFree, including medication",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\n50% discount, 25% discount on medication",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\n25% discount",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\nFree, including personal follow-up for one year",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\n60% discount",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\n30% discount",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\nFree, including ongoing group support",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\n70% discount",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nSmoking Cessation\n40% discount",
+    "context": {
+      "service_name": "Smoking Cessation",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\nFree, including 3 personal sessions with a dietitian",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\n70% discount, one session with a dietitian",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\n40% discount",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\nFree, including a personalized nutrition plan",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\n65% discount",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\n35% discount",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\nFree, including digital support for six months",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\n75% discount",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nProper Nutrition\n45% discount",
+    "context": {
+      "service_name": "Proper Nutrition",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\nFree, including a one-month gym membership",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\n60% discount",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\n30% discount",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\nFree, including 5 personal training sessions",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\n55% discount, 2 personal training sessions",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\n25% discount",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\nFree, including a home workout kit",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\n65% discount",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPhysical Activity\n35% discount",
+    "context": {
+      "service_name": "Physical Activity",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\nFree, including 10 meditation sessions",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\n65% discount, 5 meditation sessions",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\n35% discount",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\nFree, including a weekly yoga workshop for two months",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\n70% discount",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\n40% discount",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\nFree, including a mindfulness app for one year",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\n60% discount",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nStress Management\n30% discount",
+    "context": {
+      "service_name": "Stress Management",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\nFree, including a continuous glucose monitor for one month",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\n75% discount",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\n50% discount",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\nFree, including personal follow-up with a diabetes nurse",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\n70% discount",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\n45% discount",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\nFree, including a cooking course for diabetics",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\n80% discount",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nDiabetes\n55% discount",
+    "context": {
+      "service_name": "Diabetes",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\nFree, including an infant CPR course",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\n70% discount",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\n40% discount",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\nFree, including 3 breastfeeding consultation sessions",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\n65% discount, one breastfeeding consultation session",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\n35% discount",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\nFree, including an infant massage workshop",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\n75% discount",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "",
+    "subtitle": null,
+    "content": "\nPregnancy and Childbirth\n45% discount",
+    "context": {
+      "service_name": "Pregnancy and Childbirth",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "list",
+    "title": "",
+    "subtitle": "Registration Phone Numbers for Workshops:",
+    "content": "Registration Phone Numbers for Workshops: | Maccabi: 3555* or 1-700-50-53-53 ext. 7 \n Meuhedet: 3833* or 1-222-3833 ext. 8 \n Clalit: 2700* or 03-9766111 ext. 9",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "list",
+    "title": "",
+    "subtitle": "For More Information:",
+    "content": "For More Information: | Maccabi: Phone: 1-700-50-53-53 Additional Information: https://www.maccabi4u.co.il/health-workshops \n Meuhedet: Phone: 1-222-3833 Additional Information: https://www.meuhedet.co.il/health-workshops \n Clalit: Phone: 03-9766111 Additional Information: https://www.clalit.co.il/he/lifestyle/health-workshops",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "paragraph",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "Complementary Medicine (Alternative Medicine) | Complementary medicine, also known as alternative medicine, refers to a variety of treatment methods that are not part of conventional medicine. These methods combine traditional and modern therapeutic approaches, focusing on holistic care for both body and mind. Health funds in Israel offer a range of complementary medicine treatments as part of their extended healthcare services.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "paragraph",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "Complementary Medicine (Alternative Medicine) | The table below presents the main complementary medicine treatments offered by the health funds \"Maccabi,\" \"Meuhedet,\" and \"Clalit,\" along with the benefits provided to insured members under the various insurance plans. The treatments include:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "list",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "Complementary Medicine (Alternative Medicine) | Acupuncture: A treatment based on inserting thin needles into specific points on the body \n Shiatsu: A Japanese massage technique that involves applying pressure to points along the body's energy pathways \n Reflexology: A treatment based on massage and pressure applied to the feet \n Naturopathy: A therapeutic approach combining nutrition, herbal medicine, and other natural methods \n Homeopathy: A treatment method based on administering highly diluted substances \n Chiropractic: Manual therapy for the skeletal and muscular systems, primarily the spine",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n70% discount, up to 20 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n50% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n30% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n75% discount, up to 18 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n55% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n35% discount, up to 6 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n80% discount, up to 16 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n60% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nAcupuncture\n40% discount, up to 6 treatments per year",
+    "context": {
+      "service_name": "Acupuncture",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n65% discount, up to 15 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n45% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n25% discount, up to 6 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n70% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n50% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n30% discount, up to 5 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n75% discount, up to 14 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n55% discount, up to 9 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nShiatsu\n35% discount, up to 5 treatments per year",
+    "context": {
+      "service_name": "Shiatsu",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n60% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n40% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n20% discount, up to 5 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n65% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n45% discount, up to 7 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n25% discount, up to 4 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n70% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n50% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nReflexology\n30% discount, up to 5 treatments per year",
+    "context": {
+      "service_name": "Reflexology",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n70% discount, up to 16 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n50% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n30% discount, up to 6 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n75% discount, up to 14 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n55% discount, up to 9 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n35% discount, up to 5 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n80% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n60% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nNaturopathy\n40% discount, up to 5 treatments per year",
+    "context": {
+      "service_name": "Naturopathy",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n65% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n45% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n25% discount, up to 5 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n70% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n50% discount, up to 7 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n30% discount, up to 4 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n75% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n55% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nHomeopathy\n35% discount, up to 5 treatments per year",
+    "context": {
+      "service_name": "Homeopathy",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n75% discount, up to 18 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n55% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n35% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n80% discount, up to 16 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n60% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n40% discount, up to 6 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n85% discount, up to 14 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n65% discount, up to 9 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": null,
+    "content": "\nChiropractic\n45% discount, up to 6 treatments per year",
+    "context": {
+      "service_name": "Chiropractic",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "list",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": "Phone Numbers for Booking Complementary Medicine Treatments:",
+    "content": "Complementary Medicine (Alternative Medicine) | Phone Numbers for Booking Complementary Medicine Treatments: | Maccabi: 3555* or 1-700-50-53-53 ext. 10 \n Meuhedet: 3833* or 1-222-3833 ext. 11 \n Clalit: 2700* or 03-9766111 ext. 12",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "list",
+    "title": "Complementary Medicine (Alternative Medicine)",
+    "subtitle": "For More Information:",
+    "content": "Complementary Medicine (Alternative Medicine) | For More Information: | Maccabi: Phone: 1-700-50-53-53 More information: https://www.maccabi4u.co.il/complementary-medicine \n Meuhedet: Phone: 1-222-3833 More information: https://www.meuhedet.co.il/alternative-medicine \n Clalit: Phone: 03-9766111 More information: https://www.clalit.co.il/he/lifestyle/alternative_medicine",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "paragraph",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "Communication Clinics | Communication clinics specialize in diagnosing and treating communication, language, speech, and swallowing disorders. They provide comprehensive services for children and adults experiencing various communication difficulties. The clinic staff includes expert speech therapists who use advanced treatment methods and innovative technologies to improve patients' communication abilities.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "paragraph",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "Communication Clinics | The table below presents the main services offered at the communication clinics of the health funds \"Maccabi,\" \"Meuhedet,\" and \"Clalit,\" along with the benefits provided to insured members under different insurance plans. The services include:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "list",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "Communication Clinics | Diagnosis of language and speech disorders: Comprehensive evaluation of language and speech abilities \n Stuttering treatment: Advanced methods to improve speech fluency \n Treatment of voice disorders: Rehabilitation and improvement of voice quality \n Diagnosis and treatment of swallowing disorders: Evaluation and treatment of swallowing difficulties \n Developmental delay treatment: Early intervention for children with language delays \n Hearing rehabilitation: Support for users of hearing aids and cochlear implants",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n90% discount, includes detailed report",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n70% discount",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n50% discount",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n85% discount, includes parental consultation",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n65% discount",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n45% discount",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n95% discount, includes treatment plan",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n75% discount",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis of language and speech disorders\n55% discount",
+    "context": {
+      "service_name": "Diagnosis of language and speech disorders",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n80% discount, up to 30 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n60% discount, up to 20 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n40% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n75% discount, up to 25 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n55% discount, up to 18 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n35% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n85% discount, up to 28 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n65% discount, up to 22 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nStuttering treatment\n45% discount, up to 15 treatments per year",
+    "context": {
+      "service_name": "Stuttering treatment",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n75% discount, up to 20 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n55% discount, up to 15 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n35% discount, up to 10 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n70% discount, up to 18 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n50% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n30% discount, up to 8 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n80% discount, up to 22 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n60% discount, up to 16 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nTreatment of voice disorders\n40% discount, up to 12 treatments per year",
+    "context": {
+      "service_name": "Treatment of voice disorders",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n85% discount, includes videofluoroscopy",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n65% discount",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n45% discount",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n80% discount, includes nutritional consultation",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n60% discount",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n40% discount",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n90% discount, includes home treatment",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n70% discount",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDiagnosis and treatment of swallowing disorders\n50% discount",
+    "context": {
+      "service_name": "Diagnosis and treatment of swallowing disorders",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n90% discount, up to 40 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n70% discount, up to 30 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n50% discount, up to 20 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n85% discount, up to 35 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n65% discount, up to 25 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n45% discount, up to 18 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n95% discount, up to 45 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n75% discount, up to 35 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nDevelopmental delay treatment\n55% discount, up to 25 treatments per year",
+    "context": {
+      "service_name": "Developmental delay treatment",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n80% discount, includes hearing aid fitting",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n60% discount",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n40% discount",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n75% discount, includes technical support",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n55% discount",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n35% discount",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n85% discount, includes support groups",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n65% discount",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "Communication Clinics",
+    "subtitle": null,
+    "content": "\nHearing rehabilitation\n45% discount",
+    "context": {
+      "service_name": "Hearing rehabilitation",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "list",
+    "title": "Communication Clinics",
+    "subtitle": "Phone Numbers for Scheduling Appointments at Communication Clinics:",
+    "content": "Communication Clinics | Phone Numbers for Scheduling Appointments at Communication Clinics: | Maccabi: 3555* or 1-700-50-53-53 extension 13 \n Meuhedet: 3833* or 1-222-3833 extension 14 \n Clalit: 2700* or 03-9766111 extension 15",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "list",
+    "title": "Communication Clinics",
+    "subtitle": "For More Information:",
+    "content": "Communication Clinics | For More Information: | Maccabi: Phone: 1-700-50-53-53 Additional Information: https://www.maccabi4u.co.il/communication-clinics \n Meuhedet: Phone: 1-222-3833 Additional Information: https://www.meuhedet.co.il/speech-therapy \n Clalit: Phone: 03-9766111 Additional Information: https://www.clalit.co.il/he/medical/medical_diagnosis/Pages/speech_therapy.aspx",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "paragraph",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "Pregnancy | The pregnancy period is a significant time in every woman's life, accompanied by numerous physical and emotional changes. Health funds in Israel offer a variety of services and support for pregnant women to ensure a healthy and safe pregnancy. These services include medical monitoring, routine tests, educational courses, and preparation for childbirth.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "paragraph",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "Pregnancy | The table below presents the main services offered to pregnant women by the health funds \"Maccabi,\" \"Meuhedet,\" and \"Clalit,\" along with the benefits provided to insured members under various insurance plans. The services include:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "list",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "Pregnancy | Pregnancy monitoring: Regular visits to a gynecologist or midwife \n Genetic screening tests: Tests to detect hereditary diseases \n System scans: Comprehensive ultrasound examinations \n Childbirth preparation course: Guidance and preparation for delivery \n Nutritional counseling: Guidance for proper nutrition during pregnancy \n Treatment for pregnancy complications: Monitoring and treatment of special conditions",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, includes choice of specialist doctor",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, health fund doctor",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, midwife or health fund doctor",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, includes personal digital monitoring",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, health fund doctor",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, midwife or health fund doctor",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, includes 24/7 phone consultation",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, health fund doctor",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nPregnancy Monitoring\nFree, midwife or health fund doctor",
+    "context": {
+      "service_name": "Pregnancy Monitoring",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n90% discount, includes genetic counseling",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n70% discount",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n50% discount",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n85% discount, includes advanced tests",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n65% discount",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n45% discount",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n95% discount, includes extended interpretation",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n75% discount",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nGenetic Screening Tests\n55% discount",
+    "context": {
+      "service_name": "Genetic Screening Tests",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\nFree, includes early and late scans",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\nFree, late scan",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\n50% discount on late scan",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\nFree, includes 3D scan",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\nFree, regular scan",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\n40% discount on regular scan",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\nFree, includes video recording of scan",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\nFree, regular scan",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nSystem Scans\n60% discount on regular scan",
+    "context": {
+      "service_name": "System Scans",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\nFree, includes tour of delivery room",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\n50% discount",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\n25% discount",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\nFree, includes infant CPR course",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\n60% discount",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\n30% discount",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\nFree, includes meeting with lactation consultant",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\n70% discount",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nChildbirth Preparation Course\n40% discount",
+    "context": {
+      "service_name": "Childbirth Preparation Course",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n5 free sessions, includes personalized plan",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n3 free sessions",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n1 free session",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n6 free sessions, includes nutrition supplement kit",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n4 free sessions",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n2 free sessions",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n4 free sessions, includes digital support",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n2 free sessions",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nNutritional Counseling\n1 free session",
+    "context": {
+      "service_name": "Nutritional Counseling",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n90% coverage, includes home hospitalization if needed",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n70% coverage",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n50% coverage",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n85% coverage, includes expert nurse support",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n65% coverage",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n45% coverage",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n95% coverage, includes consultation with specialists",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n75% coverage",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "Pregnancy",
+    "subtitle": null,
+    "content": "\nTreatment for Pregnancy Complications\n55% coverage",
+    "context": {
+      "service_name": "Treatment for Pregnancy Complications",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "list",
+    "title": "Pregnancy",
+    "subtitle": "Contact Numbers for Additional Information and Coordination of Pregnancy Services:",
+    "content": "Pregnancy | Contact Numbers for Additional Information and Coordination of Pregnancy Services: | Maccabi: 3555* or 1-700-50-53-53 extension 16 \n Meuhedet: 3833* or 1-222-3833 extension 17 \n Clalit: 2700* or 03-9766111 extension 18",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "list",
+    "title": "Pregnancy",
+    "subtitle": "For More Details:",
+    "content": "Pregnancy | For More Details: | Maccabi: Phone: 1-700-50-53-53 Additional Information: https://www.maccabi4u.co.il/pregnancy-services \n Meuhedet: Phone: 1-222-3833 Additional Information: https://www.meuhedet.co.il/pregnancy-care \n Clalit: Phone: 03-9766111 Additional Information: https://www.clalit.co.il/he/pregnancy",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "paragraph",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "Optometry | Optometry is a field that focuses on eye health, vision, and the visual system. Optometrists are professionals qualified to perform vision tests, diagnose vision problems, and provide solutions such as glasses, contact lenses, and other optical aids.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "paragraph",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "Optometry | The table below presents the main services in the field of optometry and the benefits available to members of the health funds \"Maccabi,\" \"Meuhedet,\" and \"Clalit\" under their various insurance plans. The services include:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "list",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "Optometry | Vision tests: Periodic tests to examine visual acuity and eye health \n Eyeglasses: Fitting and purchasing frames and lenses \n Contact lenses: Fitting and purchasing soft or hard contact lenses \n Vision correction treatments: Procedures such as laser surgery for correcting nearsightedness \n Special vision aids: Fitting devices for low vision and other accessories \n Children's care: Dedicated optometry services for children and adolescents",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\nFree once a year, including intraocular pressure test",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\n50% discount on annual test",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\n25% discount on annual test",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\nFree twice a year, including retina mapping",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\nFree once a year",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\n40% discount on annual test",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\nFree every six months, including visual field test",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\nFree once a year",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Tests\n30% discount on annual test",
+    "context": {
+      "service_name": "Vision Tests",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n70% discount up to 1000 ₪, replacement every two years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n50% discount up to 700 ₪, replacement every three years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n30% discount up to 500 ₪, replacement every four years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n65% discount up to 1200 ₪, replacement every 1.5 years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n45% discount up to 800 ₪, replacement every three years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n25% discount up to 600 ₪, replacement every four years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n75% discount up to 900 ₪, replacement every two years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n55% discount up to 650 ₪, replacement every three years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nEyeglasses\n35% discount up to 450 ₪, replacement every four years",
+    "context": {
+      "service_name": "Eyeglasses",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n60% discount, including annual care kit",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n40% discount",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n20% discount",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n55% discount, including free fitting test",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n35% discount",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n15% discount",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n65% discount, including free trial lenses",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n45% discount",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nContact Lenses\n25% discount",
+    "context": {
+      "service_name": "Contact Lenses",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n50% discount on laser surgery, including preliminary tests",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n30% discount on laser surgery",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n15% discount on laser surgery",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n45% discount on laser surgery, including follow-up treatments",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n25% discount on laser surgery",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n10% discount on laser surgery",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n55% discount on laser surgery, including 5-year warranty",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n35% discount on laser surgery",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nVision Correction Treatments\n20% discount on laser surgery",
+    "context": {
+      "service_name": "Vision Correction Treatments",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n70% discount on low vision devices, equipment trial lending",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n50% discount on low vision devices",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n30% discount on low vision devices",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n65% discount on low vision devices, including personal training",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n45% discount on low vision devices",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n25% discount on low vision devices",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n75% discount on low vision devices, including technical support",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n55% discount on low vision devices",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nSpecial Vision Aids\n35% discount on low vision devices",
+    "context": {
+      "service_name": "Special Vision Aids",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 18, including lazy eye treatments",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 16, 50% discount on lazy eye treatments",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 14, 30% discount on lazy eye treatments",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 18, including vision training",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 16, 45% discount on vision training",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 14, 25% discount on vision training",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 18, including developmental vision tests",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 16, 55% discount on developmental vision tests",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "Optometry",
+    "subtitle": null,
+    "content": "\nChildren's Care\nFree up to age 14, 35% discount on developmental vision tests",
+    "context": {
+      "service_name": "Children's Care",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "list",
+    "title": "Optometry",
+    "subtitle": "Customer Service Phone Numbers:",
+    "content": "Optometry | Customer Service Phone Numbers: | Maccabi: 3555* or 1-700-50-53-53 ext. 4 \n Meuhedet: 3833* or 1-222-3833 ext. 5 \n Clalit: 2700* or 03-9766111 ext. 6",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "list",
+    "title": "Optometry",
+    "subtitle": "For More Information:",
+    "content": "Optometry | For More Information: | Maccabi: Phone: 1-700-50-53-53 More Info: https://www.maccabi4u.co.il/optometry-services \n Meuhedet: Phone: 1-222-3833 More Info: https://www.meuhedet.co.il/eye-care \n Clalit: Phone: 03-9766111 More Info: https://www.clalit.co.il/he/optometry",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "paragraph",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "Dental Clinics | Dental clinics offer a wide range of oral health services, including routine check-ups, cleanings, fillings, root canal treatments, extractions, and cosmetic procedures. These clinics are staffed by licensed dentists and hygienists who use modern equipment to ensure quality care for patients of all ages.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "paragraph",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "Dental Clinics | The table below presents all the sub-services provided by dental clinics, along with the rates and benefits according to the insurance plans of the health funds \"Maccabi,\" \"Meuhedet,\" and \"Clalit.\" The services include:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "list",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "Dental Clinics | Dental Check-ups and Cleanings: Periodic examinations and professional cleanings \n Fillings: Treatment for cavities and tooth restoration \n Root Canal Treatments: Treatment for infections and inflammation in tooth roots \n Crowns and Implants: Restoration of damaged or missing teeth \n Orthodontics: Treatments to improve teeth alignment and bite \n Cosmetic Treatments: Teeth whitening, veneers, and aesthetic smile improvements",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "paragraph",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "Dental Clinics | Each service is detailed with the benefits available for the Gold, Silver, and Bronze plans in each health fund.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\nFree twice a year, appointment within 48 hours",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\nFree once a year, appointment within a week",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\n30% discount, regular appointment",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\nFree every quarter, same-day appointment",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\nFree twice a year, appointment within 5 days",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\n25% discount, appointment within two weeks",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\nFree every month, 24/7 emergency line",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\nFree once a year, extended clinic hours",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nDental Check-ups and Cleanings\n20% discount, regular clinic hours",
+    "context": {
+      "service_name": "Dental Check-ups and Cleanings",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n80% discount, advanced materials",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n50% discount",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n20% discount",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n75% discount, premium materials",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n45% discount",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n15% discount",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n70% discount, advanced technology",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n40% discount",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nFillings\n20% discount",
+    "context": {
+      "service_name": "Fillings",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n70% discount, includes X-rays",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n40% discount",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n15% discount",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n65% discount, one-day treatment",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n35% discount",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n10% discount",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n60% discount, includes follow-up care",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n30% discount",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nRoot Canal Treatments\n20% discount",
+    "context": {
+      "service_name": "Root Canal Treatments",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n60% discount, 5-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n35% discount, 3-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n10% discount, 1-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n55% discount, 7-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n30% discount, 4-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n5% discount, 2-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n50% discount, 6-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n25% discount, 3-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCrowns and Implants\n20% discount, 1-year warranty",
+    "context": {
+      "service_name": "Crowns and Implants",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\n50% discount, includes retention",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\n30% discount",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\n5% discount",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\n45% discount, includes clear aligners",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\n25% discount",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\nNo discount",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\n40% discount, includes orthodontic consultation",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\n20% discount",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nOrthodontics\n20% discount",
+    "context": {
+      "service_name": "Orthodontics",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\n40% discount, includes whitening",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\n25% discount",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\nNo discount",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Maccabi",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\n35% discount, includes veneers",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\n20% discount",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\nNo discount",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Meuhedet",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\n30% discount, includes porcelain restoration",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Clalit",
+      "level": "Gold"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\n15% discount",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Clalit",
+      "level": "Silver"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "Dental Clinics",
+    "subtitle": null,
+    "content": "\nCosmetic Treatments\n20% discount",
+    "context": {
+      "service_name": "Cosmetic Treatments",
+      "hmo_name": "Clalit",
+      "level": "Bronze"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "list",
+    "title": "Dental Clinics",
+    "subtitle": "Customer Service Phone Numbers:",
+    "content": "Dental Clinics | Customer Service Phone Numbers: | Maccabi: 3555* or 1-700-50-53-53 ext. 1 \n Meuhedet: 3833* or 1-222-3833 ext. 2 \n Clalit: 2700* or 03-9766111 ext. 3",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "list",
+    "title": "Dental Clinics",
+    "subtitle": "For More Information:",
+    "content": "Dental Clinics | For More Information: | Maccabi: Phone: 1-700-50-53-53 More info: https://www.maccabi4u.co.il/dental-services \n Meuhedet: Phone: 1-222-3833 More info: https://www.meuhedet.co.il/dental-care \n Clalit: Phone: 03-9766111 More info: https://www.clalit.co.il/he/dental",
+    "context": "list"
+  }
+]

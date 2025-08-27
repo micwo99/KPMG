@@ -1,0 +1,4138 @@
+[
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "paragraph",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "סדנאות בריאות | סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "paragraph",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "סדנאות בריאות | הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "list",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "סדנאות בריאות | הפסקת עישון: סדנאות לגמילה מעישון ותמיכה בתהליך \n תזונה נכונה: הדרכה לאכילה בריאה והרגלי תזונה מאוזנים \n פעילות גופנית: סדנאות לעידוד ושילוב פעילות גופנית בחיי היומיום \n ניהול מתח: טכניקות להתמודדות עם לחץ וחרדה \n סוכרת: הדרכה לניהול המחלה ואורח חיים בריא לחולי סוכרת \n הריון ולידה: הכנה ללידה וטיפול בתינוק",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\nחינם, כולל טיפול תרופתי",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\n50% הנחה, 25% הנחה על טיפול תרופתי",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\n25% הנחה",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\nחינם, כולל מעקב אישי לשנה",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\n60% הנחה",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\n30% הנחה",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\nחינם, כולל תמיכה קבוצתית מתמשכת",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\n70% הנחה",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהפסקת עישון\n40% הנחה",
+    "context": {
+      "service_name": "הפסקת עישון",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\nחינם, כולל 3 פגישות אישיות עם דיאטנית",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\n70% הנחה, פגישה אחת עם דיאטנית",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\n40% הנחה",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\nחינם, כולל תוכנית תזונה אישית",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\n65% הנחה",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\n35% הנחה",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\nחינם, כולל ליווי דיגיטלי לחצי שנה",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\n75% הנחה",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nתזונה נכונה\n45% הנחה",
+    "context": {
+      "service_name": "תזונה נכונה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\nחינם, כולל מנוי לחודש למכון כושר",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\n60% הנחה",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\n30% הנחה",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\nחינם, כולל 5 אימונים אישיים",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\n55% הנחה, 2 אימונים אישיים",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\n25% הנחה",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\nחינם, כולל ערכת אימון ביתית",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\n65% הנחה",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nפעילות גופנית\n35% הנחה",
+    "context": {
+      "service_name": "פעילות גופנית",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\nחינם, כולל 10 מפגשי מדיטציה",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\n65% הנחה, 5 מפגשי מדיטציה",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\n35% הנחה",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\nחינם, כולל סדנת יוגה שבועית לחודשיים",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\n70% הנחה",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\n40% הנחה",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\nחינם, כולל אפליקציית מיינדפולנס לשנה",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\n60% הנחה",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nניהול מתח\n30% הנחה",
+    "context": {
+      "service_name": "ניהול מתח",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\nחינם, כולל מד סוכר רציף לחודש",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\n75% הנחה",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\n50% הנחה",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\nחינם, כולל ליווי אישי של אחות סוכרת",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\n70% הנחה",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\n45% הנחה",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\nחינם, כולל קורס בישול לסוכרתיים",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\n80% הנחה",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nסוכרת\n55% הנחה",
+    "context": {
+      "service_name": "סוכרת",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\nחינם, כולל קורס החייאת תינוקות",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\n70% הנחה",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\n40% הנחה",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\nחינם, כולל 3 מפגשי ייעוץ הנקה",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\n65% הנחה, מפגש ייעוץ הנקה אחד",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\n35% הנחה",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\nחינם, כולל סדנת עיסוי תינוקות",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\n75% הנחה",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "table_cell",
+    "title": "סדנאות בריאות",
+    "subtitle": null,
+    "content": "\nהריון ולידה\n45% הנחה",
+    "context": {
+      "service_name": "הריון ולידה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "list",
+    "title": "סדנאות בריאות",
+    "subtitle": "מספרי טלפון להרשמה לסדנאות:",
+    "content": "סדנאות בריאות | מספרי טלפון להרשמה לסדנאות: | מכבי: 3555* או 1-700-50-53-53 שלוחה 7 \n מאוחדת: 3833* או 1-222-3833 שלוחה 8 \n כללית: 2700* או 03-9766111 שלוחה 9",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/workshops_services.html",
+    "type": "list",
+    "title": "סדנאות בריאות",
+    "subtitle": "לפרטים נוספים:",
+    "content": "סדנאות בריאות | לפרטים נוספים: | מכבי: טלפון: 1-700-50-53-53 מידע נוסף: https://www.maccabi4u.co.il/health-workshops \n מאוחדת: טלפון: 1-222-3833 מידע נוסף: https://www.meuhedet.co.il/health-workshops \n כללית: טלפון: 03-9766111 מידע נוסף: https://www.clalit.co.il/he/lifestyle/health-workshops",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "paragraph",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "רפואה משלימה (רפואה אלטרנטיבית) | רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "paragraph",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "רפואה משלימה (רפואה אלטרנטיבית) | הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "list",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "רפואה משלימה (רפואה אלטרנטיבית) | דיקור סיני (אקופונקטורה): טיפול המבוסס על החדרת מחטים דקות לנקודות מסוימות בגוף \n שיאצו: שיטת עיסוי יפנית המשלבת לחיצות על נקודות לאורך מסלולי אנרגיה בגוף \n רפלקסולוגיה: טיפול המבוסס על עיסוי ולחיצות בכפות הרגליים \n נטורופתיה: גישה טיפולית המשלבת תזונה, צמחי מרפא ושיטות טבעיות אחרות \n הומאופתיה: שיטת טיפול המבוססת על מתן חומרים מדוללים מאוד \n כירופרקטיקה: טיפול ידני במערכת השלד והשרירים, בעיקר בעמוד השדרה",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n70% הנחה, עד 20 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n50% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n30% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n75% הנחה, עד 18 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n55% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n35% הנחה, עד 6 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n80% הנחה, עד 16 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n60% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nדיקור סיני (אקופונקטורה)\n40% הנחה, עד 6 טיפולים בשנה",
+    "context": {
+      "service_name": "דיקור סיני (אקופונקטורה)",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n65% הנחה, עד 15 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n45% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n25% הנחה, עד 6 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n70% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n50% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n30% הנחה, עד 5 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n75% הנחה, עד 14 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n55% הנחה, עד 9 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nשיאצו\n35% הנחה, עד 5 טיפולים בשנה",
+    "context": {
+      "service_name": "שיאצו",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n60% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n40% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n20% הנחה, עד 5 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n65% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n45% הנחה, עד 7 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n25% הנחה, עד 4 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n70% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n50% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nרפלקסולוגיה\n30% הנחה, עד 5 טיפולים בשנה",
+    "context": {
+      "service_name": "רפלקסולוגיה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n70% הנחה, עד 16 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n50% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n30% הנחה, עד 6 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n75% הנחה, עד 14 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n55% הנחה, עד 9 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n35% הנחה, עד 5 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n80% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n60% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nנטורופתיה\n40% הנחה, עד 5 טיפולים בשנה",
+    "context": {
+      "service_name": "נטורופתיה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n65% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n45% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n25% הנחה, עד 5 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n70% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n50% הנחה, עד 7 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n30% הנחה, עד 4 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n75% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n55% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nהומאופתיה\n35% הנחה, עד 5 טיפולים בשנה",
+    "context": {
+      "service_name": "הומאופתיה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n75% הנחה, עד 18 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n55% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n35% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n80% הנחה, עד 16 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n60% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n40% הנחה, עד 6 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n85% הנחה, עד 14 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n65% הנחה, עד 9 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "table_cell",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": null,
+    "content": "\nכירופרקטיקה\n45% הנחה, עד 6 טיפולים בשנה",
+    "context": {
+      "service_name": "כירופרקטיקה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "list",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": "מספרי טלפון להזמנת טיפולים ברפואה משלימה:",
+    "content": "רפואה משלימה (רפואה אלטרנטיבית) | מספרי טלפון להזמנת טיפולים ברפואה משלימה: | מכבי: 3555* או 1-700-50-53-53 שלוחה 10 \n מאוחדת: 3833* או 1-222-3833 שלוחה 11 \n כללית: 2700* או 03-9766111 שלוחה 12",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/alternative_services.html",
+    "type": "list",
+    "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+    "subtitle": "לפרטים נוספים:",
+    "content": "רפואה משלימה (רפואה אלטרנטיבית) | לפרטים נוספים: | מכבי: טלפון: 1-700-50-53-53 מידע נוסף: https://www.maccabi4u.co.il/complementary-medicine \n מאוחדת: טלפון: 1-222-3833 מידע נוסף: https://www.meuhedet.co.il/alternative-medicine \n כללית: טלפון: 03-9766111 מידע נוסף: https://www.clalit.co.il/he/lifestyle/alternative_medicine",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "paragraph",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "מרפאות תקשורת | מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "paragraph",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "מרפאות תקשורת | הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "list",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "מרפאות תקשורת | אבחון הפרעות שפה ודיבור: הערכה מקיפה של יכולות השפה והדיבור \n טיפול בגמגום: שיטות טיפול מתקדמות לשיפור שטף הדיבור \n טיפול בהפרעות קול: שיקום ושיפור איכות הקול \n אבחון וטיפול בהפרעות בליעה: הערכה וטיפול בקשיי בליעה \n טיפול בעיכוב התפתחותי: התערבות מוקדמת לילדים עם עיכוב שפתי \n שיקום שמיעה: תמיכה למשתמשי מכשירי שמיעה ושתלים שבלוליים",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n90% הנחה, כולל דוח מפורט",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n70% הנחה",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n50% הנחה",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n85% הנחה, כולל ייעוץ להורים",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n65% הנחה",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n45% הנחה",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n95% הנחה, כולל תוכנית טיפול",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n75% הנחה",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון הפרעות שפה ודיבור\n55% הנחה",
+    "context": {
+      "service_name": "אבחון הפרעות שפה ודיבור",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n80% הנחה, עד 30 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n60% הנחה, עד 20 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n40% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n75% הנחה, עד 25 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n55% הנחה, עד 18 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n35% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n85% הנחה, עד 28 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n65% הנחה, עד 22 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בגמגום\n45% הנחה, עד 15 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בגמגום",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n75% הנחה, עד 20 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n55% הנחה, עד 15 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n35% הנחה, עד 10 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n70% הנחה, עד 18 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n50% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n30% הנחה, עד 8 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n80% הנחה, עד 22 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n60% הנחה, עד 16 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בהפרעות קול\n40% הנחה, עד 12 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בהפרעות קול",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n85% הנחה, כולל בדיקת וידאופלורוסקופיה",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n65% הנחה",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n45% הנחה",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n80% הנחה, כולל ייעוץ תזונתי",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n60% הנחה",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n40% הנחה",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n90% הנחה, כולל טיפול ביתי",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n70% הנחה",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nאבחון וטיפול בהפרעות בליעה\n50% הנחה",
+    "context": {
+      "service_name": "אבחון וטיפול בהפרעות בליעה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n90% הנחה, עד 40 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n70% הנחה, עד 30 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n50% הנחה, עד 20 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n85% הנחה, עד 35 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n65% הנחה, עד 25 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n45% הנחה, עד 18 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n95% הנחה, עד 45 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n75% הנחה, עד 35 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nטיפול בעיכוב התפתחותי\n55% הנחה, עד 25 טיפולים בשנה",
+    "context": {
+      "service_name": "טיפול בעיכוב התפתחותי",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n80% הנחה, כולל התאמת מכשירי שמיעה",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n60% הנחה",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n40% הנחה",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n75% הנחה, כולל תמיכה טכנית",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n55% הנחה",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n35% הנחה",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n85% הנחה, כולל קבוצות תמיכה",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n65% הנחה",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "table_cell",
+    "title": "מרפאות תקשורת",
+    "subtitle": null,
+    "content": "\nשיקום שמיעה\n45% הנחה",
+    "context": {
+      "service_name": "שיקום שמיעה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "list",
+    "title": "מרפאות תקשורת",
+    "subtitle": "מספרי טלפון לקביעת תורים במרפאות תקשורת:",
+    "content": "מרפאות תקשורת | מספרי טלפון לקביעת תורים במרפאות תקשורת: | מכבי: 3555* או 1-700-50-53-53 שלוחה 13 \n מאוחדת: 3833* או 1-222-3833 שלוחה 14 \n כללית: 2700* או 03-9766111 שלוחה 15",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/communication_clinic_services.html",
+    "type": "list",
+    "title": "מרפאות תקשורת",
+    "subtitle": "לפרטים נוספים:",
+    "content": "מרפאות תקשורת | לפרטים נוספים: | מכבי: טלפון: 1-700-50-53-53 מידע נוסף: https://www.maccabi4u.co.il/communication-clinics \n מאוחדת: טלפון: 1-222-3833 מידע נוסף: https://www.meuhedet.co.il/speech-therapy \n כללית: טלפון: 03-9766111 מידע נוסף: https://www.clalit.co.il/he/medical/medical_diagnosis/Pages/speech_therapy.aspx",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "paragraph",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "הריון | תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "paragraph",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "הריון | הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "list",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "הריון | מעקב הריון: ביקורים סדירים אצל רופא נשים או מיילדת \n בדיקות סקר גנטיות: בדיקות לאיתור מחלות תורשתיות \n סקירות מערכות: בדיקות אולטרסאונד מקיפות \n קורס הכנה ללידה: הדרכה והכנה לקראת הלידה \n ייעוץ תזונתי: הדרכה לתזונה נכונה במהלך ההריון \n טיפול בסיבוכי הריון: מעקב וטיפול במצבים מיוחדים",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, כולל בחירת רופא מומחה",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, רופא קופה",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, מיילדת או רופא קופה",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, כולל מעקב אישי דיגיטלי",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, רופא קופה",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, מיילדת או רופא קופה",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, כולל ייעוץ טלפוני 24/7",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, רופא קופה",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nמעקב הריון\nחינם, מיילדת או רופא קופה",
+    "context": {
+      "service_name": "מעקב הריון",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n90% הנחה, כולל ייעוץ גנטי",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n70% הנחה",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n50% הנחה",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n85% הנחה, כולל בדיקות מתקדמות",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n65% הנחה",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n45% הנחה",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n95% הנחה, כולל פענוח מורחב",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n75% הנחה",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nבדיקות סקר גנטיות\n55% הנחה",
+    "context": {
+      "service_name": "בדיקות סקר גנטיות",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\nחינם, כולל סקירה מוקדמת ומאוחרת",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\nחינם, סקירה מאוחרת",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\n50% הנחה על סקירה מאוחרת",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\nחינם, כולל סקירה תלת-ממדית",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\nחינם, סקירה רגילה",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\n40% הנחה על סקירה רגילה",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\nחינם, כולל צילום וידאו של הסקירה",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\nחינם, סקירה רגילה",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nסקירות מערכות\n60% הנחה על סקירה רגילה",
+    "context": {
+      "service_name": "סקירות מערכות",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\nחינם, כולל סיור בחדר לידה",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\n50% הנחה",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\n25% הנחה",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\nחינם, כולל קורס החייאת תינוקות",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\n60% הנחה",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\n30% הנחה",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\nחינם, כולל מפגש עם יועצת הנקה",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\n70% הנחה",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nקורס הכנה ללידה\n40% הנחה",
+    "context": {
+      "service_name": "קורס הכנה ללידה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\n5 פגישות חינם, כולל תוכנית אישית",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\n3 פגישות חינם",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\nפגישה אחת חינם",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\n6 פגישות חינם, כולל ערכת תוספי תזונה",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\n4 פגישות חינם",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\n2 פגישות חינם",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\n4 פגישות חינם, כולל ליווי דיגיטלי",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\n2 פגישות חינם",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nייעוץ תזונתי\nפגישה אחת חינם",
+    "context": {
+      "service_name": "ייעוץ תזונתי",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n90% כיסוי, כולל אשפוז בית במקרה הצורך",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n70% כיסוי",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n50% כיסוי",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n85% כיסוי, כולל ליווי אחות מומחית",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n65% כיסוי",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n45% כיסוי",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n95% כיסוי, כולל התייעצות עם מומחים",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n75% כיסוי",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "table_cell",
+    "title": "הריון",
+    "subtitle": null,
+    "content": "\nטיפול בסיבוכי הריון\n55% כיסוי",
+    "context": {
+      "service_name": "טיפול בסיבוכי הריון",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "list",
+    "title": "הריון",
+    "subtitle": "מספרי טלפון למידע נוסף ותיאום שירותי הריון:",
+    "content": "הריון | מספרי טלפון למידע נוסף ותיאום שירותי הריון: | מכבי: 3555* או 1-700-50-53-53 שלוחה 16 \n מאוחדת: 3833* או 1-222-3833 שלוחה 17 \n כללית: 2700* או 03-9766111 שלוחה 18",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/pragrency_services.html",
+    "type": "list",
+    "title": "הריון",
+    "subtitle": "לפרטים נוספים:",
+    "content": "הריון | לפרטים נוספים: | מכבי: טלפון: 1-700-50-53-53 מידע נוסף: https://www.maccabi4u.co.il/pregnancy-services \n מאוחדת: טלפון: 1-222-3833 מידע נוסף: https://www.meuhedet.co.il/pregnancy-care \n כללית: טלפון: 03-9766111 מידע נוסף: https://www.clalit.co.il/he/pregnancy",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "paragraph",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "אופטומטריה | אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "paragraph",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "אופטומטריה | הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" במסלולי הביטוח השונים. השירותים המוצגים כוללים:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "list",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "אופטומטריה | בדיקות ראייה: בדיקות תקופתיות לבחינת חדות הראייה ובריאות העיניים \n משקפי ראייה: התאמה ורכישה של מסגרות ועדשות \n עדשות מגע: התאמה ורכישה של עדשות מגע רכות או קשות \n טיפולים לתיקון ראייה: הליכים כגון ניתוחי לייזר לתיקון קוצר ראייה \n אביזרי ראייה מיוחדים: התאמת מכשירים לראייה ירודה ואביזרים אחרים \n טיפול בילדים: שירותי אופטומטריה ייעודיים לילדים ונוער",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\nחינם פעם בשנה, כולל בדיקת לחץ תוך עיני",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\n50% הנחה על בדיקה שנתית",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\n25% הנחה על בדיקה שנתית",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\nחינם פעמיים בשנה, כולל מיפוי רשתית",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\nחינם פעם בשנה",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\n40% הנחה על בדיקה שנתית",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\nחינם כל חצי שנה, כולל בדיקת שדה ראייה",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\nחינם פעם בשנה",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nבדיקות ראייה\n30% הנחה על בדיקה שנתית",
+    "context": {
+      "service_name": "בדיקות ראייה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n70% הנחה עד 1000 ₪, החלפה כל שנתיים",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n50% הנחה עד 700 ₪, החלפה כל 3 שנים",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n30% הנחה עד 500 ₪, החלפה כל 4 שנים",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n65% הנחה עד 1200 ₪, החלפה כל שנה וחצי",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n45% הנחה עד 800 ₪, החלפה כל 3 שנים",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n25% הנחה עד 600 ₪, החלפה כל 4 שנים",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n75% הנחה עד 900 ₪, החלפה כל שנתיים",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n55% הנחה עד 650 ₪, החלפה כל 3 שנים",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nמשקפי ראייה\n35% הנחה עד 450 ₪, החלפה כל 4 שנים",
+    "context": {
+      "service_name": "משקפי ראייה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n60% הנחה, כולל ערכת טיפול שנתית",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n40% הנחה",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n20% הנחה",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n55% הנחה, כולל בדיקת התאמה חינם",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n35% הנחה",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n15% הנחה",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n65% הנחה, כולל עדשות ניסיון חינם",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n45% הנחה",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nעדשות מגע\n25% הנחה",
+    "context": {
+      "service_name": "עדשות מגע",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n50% הנחה על ניתוח לייזר, כולל בדיקות מקדימות",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n30% הנחה על ניתוח לייזר",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n15% הנחה על ניתוח לייזר",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n45% הנחה על ניתוח לייזר, כולל טיפולי המשך",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n25% הנחה על ניתוח לייזר",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n10% הנחה על ניתוח לייזר",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n55% הנחה על ניתוח לייזר, כולל אחריות ל-5 שנים",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n35% הנחה על ניתוח לייזר",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפולים לתיקון ראייה\n20% הנחה על ניתוח לייזר",
+    "context": {
+      "service_name": "טיפולים לתיקון ראייה",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n70% הנחה על מכשירי ראייה ירודה, השאלת ציוד לניסיון",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n50% הנחה על מכשירי ראייה ירודה",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n30% הנחה על מכשירי ראייה ירודה",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n65% הנחה על מכשירי ראייה ירודה, כולל הדרכה אישית",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n45% הנחה על מכשירי ראייה ירודה",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n25% הנחה על מכשירי ראייה ירודה",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n75% הנחה על מכשירי ראייה ירודה, כולל תמיכה טכנית",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n55% הנחה על מכשירי ראייה ירודה",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nאביזרי ראייה מיוחדים\n35% הנחה על מכשירי ראייה ירודה",
+    "context": {
+      "service_name": "אביזרי ראייה מיוחדים",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 18, כולל טיפולי עין עצלה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 16, 50% הנחה על טיפולי עין עצלה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 14, 30% הנחה על טיפולי עין עצלה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 18, כולל אימוני ראייה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 16, 45% הנחה על אימוני ראייה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 14, 25% הנחה על אימוני ראייה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 18, כולל בדיקות התפתחות ראייה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 16, 55% הנחה על בדיקות התפתחות ראייה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "table_cell",
+    "title": "אופטומטריה",
+    "subtitle": null,
+    "content": "\nטיפול בילדים\nחינם עד גיל 14, 35% הנחה על בדיקות התפתחות ראייה",
+    "context": {
+      "service_name": "טיפול בילדים",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "list",
+    "title": "אופטומטריה",
+    "subtitle": "מספרי טלפון לשירות לקוחות:",
+    "content": "אופטומטריה | מספרי טלפון לשירות לקוחות: | מכבי: 3555* או 1-700-50-53-53 שלוחה 4 \n מאוחדת: 3833* או 1-222-3833 שלוחה 5 \n כללית: 2700* או 03-9766111 שלוחה 6",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/optometry_services.html",
+    "type": "list",
+    "title": "אופטומטריה",
+    "subtitle": "לפרטים נוספים:",
+    "content": "אופטומטריה | לפרטים נוספים: | מכבי: טלפון: 1-700-50-53-53 מידע נוסף: https://www.maccabi4u.co.il/optometry-services \n מאוחדת: טלפון: 1-222-3833 מידע נוסף: https://www.meuhedet.co.il/eye-care \n כללית: טלפון: 03-9766111 מידע נוסף: https://www.clalit.co.il/he/optometry",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "paragraph",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "מרפאות שיניים | מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "paragraph",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "מרפאות שיניים | הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\". השירותים המוצגים כוללים:",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "list",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "מרפאות שיניים | בדיקות וניקוי שיניים: בדיקות תקופתיות וניקוי מקצועי \n סתימות: טיפול בעששת ושחזור שיניים \n טיפולי שורש: טיפול בזיהומים ודלקות בשורשי השיניים \n כתרים ושתלים: שיקום שיניים פגועות או חסרות \n יישור שיניים: טיפולים אורתודונטיים לשיפור יישור השיניים והמנשך \n טיפולים קוסמטיים: הלבנת שיניים, ציפויים ושיפור אסתטי של החיוך",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "paragraph",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "מרפאות שיניים | כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.",
+    "context": "description"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\nחינם פעמיים בשנה, תור תוך 48 שעות",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\nחינם פעם בשנה, תור תוך שבוע",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\n30% הנחה, תור רגיל",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\nחינם כל רבעון, תור ביום",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\nחינם פעמיים בשנה, תור תוך 5 ימים",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\n25% הנחה, תור תוך שבועיים",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\nחינם כל חודש, קו חירום 24/7",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\nחינם פעם בשנה, שעות קליניקה מורחבות",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nבדיקות וניקוי שיניים\n20% הנחה, שעות קליניקה רגילות",
+    "context": {
+      "service_name": "בדיקות וניקוי שיניים",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n80% הנחה, חומרים מתקדמים",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n50% הנחה",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n20% הנחה",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n75% הנחה, חומרים פרימיום",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n45% הנחה",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n15% הנחה",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n70% הנחה, טכנולוגיה מתקדמת",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n40% הנחה",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nסתימות\n20% הנחה",
+    "context": {
+      "service_name": "סתימות",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n70% הנחה, כולל צילומי רנטגן",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n40% הנחה",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n15% הנחה",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n65% הנחה, טיפול ביום אחד",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n35% הנחה",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n10% הנחה",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n60% הנחה, כולל טיפול לאחר מכן",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n30% הנחה",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולי שורש\n20% הנחה",
+    "context": {
+      "service_name": "טיפולי שורש",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n60% הנחה, אחריות ל-5 שנים",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n35% הנחה, אחריות ל-3 שנים",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n10% הנחה, אחריות לשנה",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n55% הנחה, אחריות ל-7 שנים",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n30% הנחה, אחריות ל-4 שנים",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n5% הנחה, אחריות לשנתיים",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n50% הנחה, אחריות ל-6 שנים",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n25% הנחה, אחריות ל-3 שנים",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nכתרים ושתלים\n20% הנחה, אחריות לשנה",
+    "context": {
+      "service_name": "כתרים ושתלים",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\n50% הנחה, כולל רטנציה",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\n30% הנחה",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\n5% הנחה",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\n45% הנחה, כולל מכשיר שקוף",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\n25% הנחה",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\nללא הנחה",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\n40% הנחה, כולל ייעוץ אורתודונטי",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\n20% הנחה",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nיישור שיניים\n20% הנחה",
+    "context": {
+      "service_name": "יישור שיניים",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\n40% הנחה, כולל הלבנה",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "מכבי",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\n25% הנחה",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "מכבי",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\nללא הנחה",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "מכבי",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\n35% הנחה, כולל ציפויים",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "מאוחדת",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\n20% הנחה",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "מאוחדת",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\nללא הנחה",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "מאוחדת",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\n30% הנחה, כולל שיחזור חרסינה",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "כללית",
+      "level": "זהב"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\n15% הנחה",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "כללית",
+      "level": "כסף"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "table_cell",
+    "title": "מרפאות שיניים",
+    "subtitle": null,
+    "content": "\nטיפולים קוסמטיים\n20% הנחה",
+    "context": {
+      "service_name": "טיפולים קוסמטיים",
+      "hmo_name": "כללית",
+      "level": "ארד"
+    }
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "list",
+    "title": "מרפאות שיניים",
+    "subtitle": "מספרי טלפון לשירות לקוחות:",
+    "content": "מרפאות שיניים | מספרי טלפון לשירות לקוחות: | מכבי: 3555* או 1-700-50-53-53 שלוחה 1 \n מאוחדת: 3833* או 1-222-3833 שלוחה 2 \n כללית: 2700* או 03-9766111 שלוחה 3",
+    "context": "list"
+  },
+  {
+    "source": "phase2_data/dentel_services.html",
+    "type": "list",
+    "title": "מרפאות שיניים",
+    "subtitle": "לפרטים נוספים:",
+    "content": "מרפאות שיניים | לפרטים נוספים: | מכבי: טלפון: 1-700-50-53-53 מידע נוסף: https://www.maccabi4u.co.il/dental-services \n מאוחדת: טלפון: 1-222-3833 מידע נוסף: https://www.meuhedet.co.il/dental-care \n כללית: טלפון: 03-9766111 מידע נוסף: https://www.clalit.co.il/he/dental",
+    "context": "list"
+  }
+]
